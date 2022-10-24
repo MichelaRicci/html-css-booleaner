@@ -33,3 +33,31 @@ header {
   ul {
     padding-left: 10px;
   }
+
+
+table {
+background-size: contain;
+border-collapse: collapse;
+
+
+
+}
+
+table td {
+    padding: 10px;
+  }
+
+
+th {
+	background-color: #20a9e5;
+   
+   
+ }
+
+tr {
+    background-color: #b1e5f2
+}
+
+tr.alternate {
+    background-color: #fff;
+}
