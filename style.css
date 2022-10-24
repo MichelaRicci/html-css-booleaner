@@ -64,6 +64,9 @@ tr.alternate {
     background-color: #fff;
 }
 
+.large {
+    width: 50%;
+}
 mark {
   background-color: #ffff00;
   color: black;
