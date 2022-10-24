@@ -13,46 +13,48 @@ header {
     background-image: url('img/pattern.png');
     background-repeat: repeat-x;
     text-align: left;
-  
-  }
+}
 
-  .logo {
+.logo {
     width: 200px;
     margin-top: 40px;
-  }
+}
   
-  span {
+span {
     color: #606060;
-  }
+}
 
-  article {
+.link {
+    text-decoration: none;
+    color: #3cb4e7;
+}
+
+article {
     font-style: italic;
     font-size: 12px;
-  }
+}
 
-  ul {
+ul {
     padding-left: 10px;
-  }
+}
 
 
 table {
-background-size: contain;
-border-collapse: collapse;
-
-
+    background-size: contain;
+    border-collapse: collapse;
 
 }
 
 table td {
     padding: 10px;
-  }
 
+}
 
 th {
 	background-color: #20a9e5;
-   
-   
- }
+    color: #ffffff;
+     
+}
 
 tr {
     background-color: #b1e5f2
