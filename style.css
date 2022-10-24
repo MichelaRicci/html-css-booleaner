@@ -1,5 +1,5 @@
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman';
    
     
 }
@@ -19,9 +19,16 @@ header {
     width: 200px;
     margin-top: 40px;
 }
-  
+
+h1{
+    font-size: 32px;
+    margin-bottom: 0%;
+
+}
+
 span {
     color: #606060;
+    
 }
 
 .link {
@@ -30,7 +37,6 @@ span {
 }
 
 article {
-    font-style: italic;
     font-size: 12px;
 }
 
