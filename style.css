@@ -63,3 +63,8 @@ tr {
 tr.alternate {
     background-color: #fff;
 }
+
+mark {
+  background-color: #ffff00;
+  color: black;
+}
